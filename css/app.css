@@ -1,3 +1,46 @@
 html, body {
+    background: #f4cb92;
+}
+
+a {
+    color: #1a5a92;
+}
+
+div.content {
+    height: 100%;
+}
+
+ul.nav {
+    list-style-type: none;
+}
+
+div.top-banner {
+    padding: 20px;
+}
+
+hr {
+    border-width: 2px 0 0;
+    border-top-color: #000;
+}
+
+img.icon {
+    width: 30px;
+}
+
+hgroup h1, hgroup h3 {
+    margin: 0;
+}
+
+hgroup h1 {
+    font-size: 48px;
+}
+
+hgroup h3 {
+    font-weight: normal;
+}
+
+div.wrapper {
+    border: 5px solid;
+    margin-top: 15px;
     background: url('/img/subtle_white_feathers.png');
 }

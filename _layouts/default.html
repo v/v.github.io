@@ -21,21 +21,29 @@
 
     </head>
     <body>
-        <div class="row text-center">
-            <h1> <a href="/"> {{ site.name }} </a> </h1>
-        </div>
         <div class="row">
-            <div class="large-3 columns">
-                <ul>
-                    <li> <a href="/home.html"> Home </a> </li>
-                    <li> <a href="/about.html"> About </a> </li>
-                    <li> <a href="/projects.html"> Projects </a> </li>
-                    <li> <a href="http://github.com/vaibhav2614"> Github </a> </li>
-                    <li> <a href="http://twitter.com/vwritescode"> Twitter </a> </li>
-                </ul>
-            </div>
-            <div class="large-9 columns">
-                {{ content }}
+            <div class="large-12 wrapper columns">
+                <div class="row top-banner">
+                    <hgroup>
+                        <h1> <a href="/"> Vaibhav Verma </a> </h1>
+                        <h3> College Student and Hacker </h3>
+                    </hgroup>
+                    <hr />
+                </div>
+                <div class="row content">
+                    <div class="large-2 columns">
+                        <ul class="nav">
+                            <li> <a href="/"> Home </a> </li>
+                            <li> <a href="/about.html"> About </a> </li>
+                            <li> <a href="/projects.html"> Projects </a> </li>
+                            <li> <a href="http://github.com/vwritescode"> Github </a> </li>
+                            <li> <a href="http://twitter.com/vwritescode"> Twitter </a> </li>
+                        </ul>
+                    </div>
+                    <div class="large-10 columns">
+                        {{ content }}
+                    </div>
+                </div>
             </div>
         </div>
     </body>
