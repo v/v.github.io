@@ -45,3 +45,7 @@ em {
     color: rgb(180, 0, 0);
     font-style: normal;
 }
+
+span.date, span.post-title {
+    font-size: 24px;
+}
