@@ -4,23 +4,23 @@ title: V's Blog
 ---
 <div class="row">
     <div class="large-2 columns">
-        <img alt="Picture of Vaibhav" class="avatar" src="http://gravatar.com/avatar/7b61992bc3ff3a917903889fe9e86714" />
+        <img alt="Picture of Vaibhav" class="avatar" src="http://gravatar.com/avatar/7b61992bc3ff3a917903889fe9e86714?s=130" />
     </div>
     <div class="large-10 columns">
         <p> Hello, I am Vaibhav Verma, a student at Rutgers University. I currently work for <a href="http://oss.rutgers.edu">Open Systems Solutions</a> and teach recitation for <a href="http://www.cs.rutgers.edu/undergraduate/courses/110/">CS 110</a>. </p>
 
-        <p> In the past I've developed software for Zynga, Microsoft, and TwitchTV. I've also taught recitation for <a href="http://www.cs.rutgers.edu/undergraduate/courses/111/">CS 111</a>. I was heavily involved in the revival of the <a href="http://usacs.rutgers.edu"> undergraduate CS group at Rutgers</a>, and founded <a href="http://hackru.org">HackRU </a>, a biannual student hackathon. </p>
+        <p> In the past I've developed software for TwitchTV, Microsoft, and Zynga. I've also taught recitation for <a href="http://www.cs.rutgers.edu/undergraduate/courses/111/">CS 111</a>. I <em>led the revival</em> of the <a href="http://usacs.rutgers.edu"> undergraduate CS group at Rutgers</a>, and <em>founded</em> <a href="http://hackru.org">HackRU </a>, a biannual student hackathon. </p>
     </div>
 </div>
 
-<div class="row">
-    <div class="large-12 columns">
-        <div id="home">
-            <ul class="posts">
-                {% for post in site.posts %}
-                <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-                {% endfor %}
-            </ul>
+{% for post in site.posts %}
+    <div class="row">
+        <div class="large-2 columns">
+            <span class="date"> {{ post.date | date_to_long_string }} </span>
+        </div>
+        <div class="large-10 columns">
+            <h3> <a href="{{ post.url }}">{{ post.title }} </a> </h3>
+            <p> {{ post.excerpt }} </p>
         </div>
     </div>
-</div>
+{% endfor %}

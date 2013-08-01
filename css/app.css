@@ -40,3 +40,8 @@ div.wrapper {
     margin-top: 15px;
     background: url('/img/subtle_white_feathers.png');
 }
+
+em {
+    color: rgb(180, 0, 0);
+    font-style: normal;
+}
