@@ -37,7 +37,7 @@ hgroup h3 {
 div.wrapper {
     border: 5px solid;
     margin-top: 15px;
-    background: url('/img/subtle_white_feathers.png');
+    background: url('../img/subtle_white_feathers.png');
 }
 
 em {
@@ -114,7 +114,7 @@ h3 {
     margin-top: -1px;
     margin-right: 4px;
     vertical-align: middle;
-    background-image: url('/img/github.png');
+    background-image: url('../img/github.png');
     background-repeat: no-repeat;
     float: left;
 }
