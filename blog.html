@@ -1,0 +1,22 @@
+--- 
+layout: default
+title: V's Blog
+--- 
+
+<div class="row">
+    <div class="large-12 columns">
+        Occasionally, I blog about things.
+    </div>
+</div>
+
+{% for post in site.posts %}
+    <div class="row">
+        <div class="large-2 columns">
+            <span class="date"> {{ post.date | date_to_long_string }} </span>
+        </div>
+        <div class="large-10 columns">
+            <span class="post-title"> <a href="{{ post.url }}">{{ post.title }} </a> </span>
+            {{ post.content }}
+        </div>
+    </div>
+{% endfor %}
