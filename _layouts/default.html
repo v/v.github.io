@@ -1,3 +1,18 @@
+---
+navigation:
+    - text: Home
+      url: index.html
+    - text: Blog
+      url: blog.html
+    - text: Projects
+      url: projects.html
+    - text: Resume
+      url: resume.pdf
+    - text: Contact
+      url: contact.html
+    - text: Github
+      url: //github.com/v
+---
 <!DOCTYPE html>
 <html>
     <head>
@@ -24,12 +39,27 @@
         <div class="row">
             <div class="large-12 wrapper columns">
                 <div class="row top-banner">
-                    <hgroup>
-                        <h1> <a href="/"> Vaibhav Verma </a> </h1>
-                        <h3> College Student and Hacker </h3>
-                    </hgroup>
-                    <hr />
+                    <div class="large-5 columns">
+                        <hgroup>
+                            <h1> <a href="/"> Vaibhav Verma </a> </h1>
+                            <h3> College Student and Hacker </h3>
+                        </hgroup>
+                    </div>
+                    <div class="large-7 columns">
+                        <ul class="button-group my-nav">
+                        {% for link in page.navigation %}
+                            {% if page.url contains link.url %}
+                            <li class="active">
+                            {% else %}
+                            <li> 
+                            {% endif %}
+                                <a href="{{ link.url }}"> {{ link.text }} </a> 
+                            </li>
+                        {% endfor %}
+                        </ul>
+                    </div>
                 </div>
+                <hr />
                 {{ content }}
             </div>
         </div>
