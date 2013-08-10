@@ -11,7 +11,3 @@ def ilab():
 @hosts('vverna@vverma.net')
 def site():
     put('_site/*', '/var/www/servers/vverma.net')
-
-def deploy():
-    ilab()
-    site()
