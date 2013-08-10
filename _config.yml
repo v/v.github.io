@@ -3,3 +3,4 @@ markdown: redcarpet
 pygments: true
 exclude: 
     - fabfile.py
+permalink: :title.html
