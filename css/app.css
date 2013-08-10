@@ -1,5 +1,4 @@
 html, body {
-    background: #f4cb92;
 }
 
 a {
@@ -35,9 +34,7 @@ hgroup h3 {
 }
 
 div.wrapper {
-    border: 5px solid;
     margin-top: 15px;
-    background: url('../img/subtle_white_feathers.png');
 }
 
 em {
@@ -46,6 +43,7 @@ em {
 }
 
 span.date, span.post-title {
+<<<<<<< Updated upstream
     font-size: 20px;
 }
 
@@ -123,4 +121,11 @@ h4.timeline {
     font-weight: 300;
     font-style: italic;
     color: rgb(180, 0, 0);
+=======
+    font-size: 24px;
+}
+
+div#intro {
+    margin-bottom: 20px;
+>>>>>>> Stashed changes
 }
