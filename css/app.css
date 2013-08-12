@@ -43,7 +43,6 @@ em {
 }
 
 span.date, span.post-title {
-<<<<<<< Updated upstream
     font-size: 20px;
 }
 
@@ -126,4 +125,9 @@ h4.timeline {
 
 div#intro {
     margin-bottom: 20px;
+}
+
+div.info {
+    white-space: pre-line;
+    line-height: 1.3em;
 }
