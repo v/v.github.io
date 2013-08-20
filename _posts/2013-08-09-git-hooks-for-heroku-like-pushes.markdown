@@ -14,7 +14,7 @@ I wanted to have a similar deployment scheme on my own projects that aren't depl
 
 ### How it works 
 
-Since git is a distributed version control system, you can push the code that lives on your machine to another machine very easily via SSH. So your first instinct is to set up a repo in the location that your code needs to be deployed, and push to it via git. This is a good instinct, but git does not allow you to push code to a working copy. To resolve this, you will create a *bare repository* on your server, and push to it. You will also set up a git hook to automatically deploy your application when code gets pushed to the bare repository.
+Since git is a distributed version control system, you can push the code that lives on your machine to another machine very easily via `ssh`. So your first instinct is to set up a repo in the location that your code needs to be deployed, and push to it via git. This is a good instinct, but git does not allow you to push code to a working copy. To resolve this, you will create a *bare repository* on your server, and push to it. You will also set up a git hook to automatically deploy your application when code gets pushed to the bare repository.
 
 ### Setting it up
 
