@@ -13,6 +13,7 @@ code {
     font-weight: normal;
     color: rgb(34, 34, 34);
     margin: 2px;
+    white-space: pre-wrap;
 }
 
 .highlight code {
