@@ -4,7 +4,7 @@ from fabric.operations import run, put
 def build():
     local('jekyll build')
 
-@hosts('vverna@vi.rutgers.edu')
+@hosts('vverna@vi.cs.rutgers.edu')
 def ilab():
     put('_site/*', '/ilab/users/vverna/public_html')
 

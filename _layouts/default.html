@@ -12,14 +12,19 @@ navigation:
       url: teaching.html
     - text: Github
       url: //github.com/v
-title: V's Website
 ---
 <!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
+        <title>
+          {% if page.title %}
+            {{ page.title }}
+          {% else %}
+            V's Website
+          {% endif %}
+        </title>
         <meta name="viewport" content="width=device-width">
 
         <link rel="stylesheet" href="css/normalize.css">
@@ -52,9 +57,9 @@ title: V's Website
                             {% if page.url contains link.url %}
                             <li class="active">
                             {% else %}
-                            <li> 
+                            <li>
                             {% endif %}
-                                <a href="{{ link.url }}"> {{ link.text }} </a> 
+                                <a href="{{ link.url }}"> {{ link.text }} </a>
                             </li>
                         {% endfor %}
                         </ul>
