@@ -81,3 +81,5 @@ $.ajax({
 ```
 
 Using this trick, does mean that you have to trust `http://myservice.com`, because any content returned by it can get executed by your client side JS. It also means that `http://myservice.com` needs to live on the open web (not on an internal server), so that Yahoo servers can hit it.
+
+jQuery will automatically add a `callback` parameter to the request, and give that name to the `success` function, so that it gets called appropriately.
