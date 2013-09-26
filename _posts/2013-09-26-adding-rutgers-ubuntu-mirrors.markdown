@@ -56,7 +56,7 @@ deb-src http://us.archive.ubuntu.com/ubuntu/ [distrib]-backports main restricted
 ...
 ```
 
-`[distrib]` here is the name of your distribution. This is one of `natty`, `oneiric`, `precise`, `quantal`,  or `raring`. You can find a full list on the [Ubuntu Wikipedia Page](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))
+`[distrib]` here is the name of your distribution. This is one of `natty`, `oneiric`, `precise`, `quantal`, `raring`, or `saucy`. You can find a full list on the [Ubuntu Wikipedia Page](http://en.wikipedia.org/wiki/Ubuntu_(operating_system))
 
 You are going to add the following lines at the *top of the file*.
 
