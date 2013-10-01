@@ -65,11 +65,12 @@ Here is how you modify it to proxy via Yahoo's servers.
 ```js
 
 var yql_url = 'https://query.yahooapis.com/v1/public/yql';
+var url = 'http://myservice.com/data.json';
 
 $.ajax({
   'url': yql_url,
   'data': {
-    'q': 'SELECT * FROM json WHERE url="'+yql_url+'"',
+    'q': 'SELECT * FROM json WHERE url="'+url+'"',
     'format': 'json',
     'jsonCompat': 'new',
   },
