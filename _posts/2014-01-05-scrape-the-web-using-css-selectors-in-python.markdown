@@ -5,10 +5,10 @@ date: 2014-01-05 13:40"
 published: true
 ---
 
-[Web Scraping](en.wikipedia.org/wiki/Web_scraping) is a super useful technique that lets you get data out of web pages that don't have an API. I often scrape web pages to get structured data out of unstructured web pages, and Python is my language of choice for quick scripts.
+[Web Scraping](http://en.wikipedia.org/wiki/Web_scraping) is a super useful technique that lets you get data out of web pages that don't have an API. I often scrape web pages to get structured data out of unstructured web pages, and Python is my language of choice for quick scripts.
 
 
-### BeautifulSoup - Why I don't use anymore
+### BeautifulSoup - Why I don't use it anymore
 
 In the past, I used [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/) almost exclusively to do this kind of scraping. BeautifulSoup is a great library for web scraping - it has great docs, and it gets the job done most of the time. I've used it on lots of projects. However, I find that it doesn't fit my workflow.
 
