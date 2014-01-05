@@ -56,7 +56,7 @@ print match.text
 data = [result.text for result in results]
 ```
 
-As you can see, it's really easy to use CSSSelectors with Python and lxml. Instead of spending time reading BeautifulSoup docs, spend time writing your application.
+As you can see, it's really easy to use CSS Selectors with Python and lxml. Instead of spending time reading BeautifulSoup docs, spend time writing your application.
 
 ### Installation of lxml and lxml.cssselect
 
