@@ -1,6 +1,8 @@
 name: V's Blog
+description: V's Tips and Tricks for Developers
 markdown: redcarpet
-pygments: true
-exclude: 
+url: http://vverma.net
+highlighter: true
+exclude:
     - fabfile.py
 permalink: :title.html

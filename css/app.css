@@ -135,3 +135,7 @@ div.info {
     white-space: pre-line;
     line-height: 1.3em;
 }
+
+ul, ol {
+    margin-left: 20px;
+}
