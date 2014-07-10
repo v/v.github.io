@@ -11,3 +11,7 @@ def ilab():
 @hosts('vverna@vverma.net')
 def site():
     put('_site/*', '/var/www/servers/vverma.net')
+
+@hosts('vv@new.vverma.net')
+def do():
+    put('_site/*', '/var/www/servers/vverma.net')
