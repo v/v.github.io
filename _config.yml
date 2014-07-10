@@ -5,4 +5,6 @@ url: http://vverma.net
 highlighter: true
 exclude:
     - fabfile.py
+    - Gemfile
+    - Gemfile.lock
 permalink: :title.html
