@@ -7,7 +7,7 @@ published: false
 
 ### Introduction
 
-I'm a fifth year masters student in the Rutgers CS department, and I've interacted with students in introductory CS courses for over 3 years. I was a peer mentor for CS111 for 3 years (Fall 2011 to Spring 2013), and I've helped students with their assignments, and explained concepts to them a countless number of times.
+I'm a recent graduate of the BS-MS program in Rutgers CS. I was a peer mentor for CS111 for 3 years, and I've helped students with assignments, and explained concepts to them a countless number of times.
 
 I have met a wide range of students in the CS department that have succeeded and failed for various reasons. This blog post tries to explain these patterns for success and failure that I have noticed.
 
@@ -64,7 +64,7 @@ Data Structures develops on your understanding of problem solving from 111 and t
 2. You need to know Data Structures to do well in Algorithms [CS344].
 3. You need to know Data Structures to get through a tech interview.
 
-You can ask any upperclassman what they think the most important CS course is, and Data Structures will unanimously be their top 3.
+You can ask any upperclassman what they think the most important CS course is, and Data Structures will unanimously be one of their top 3.
 
 #### The Story of 50% of the students in CS112
 
@@ -78,14 +78,48 @@ Alice is the canonical example of a student that does poorly in the Rutgers CS d
 
 In 111, Alice had projects every week that forced her to learn material. The only thing in 112 that forces you to learn material in the exam, and that happens twice a semester. Sometimes, the first 112 exam is so early in the semester that there's very little material covered on it. This means that the final covers a ton of material, and because Alice has been zoning out of 112 lecture on a regular basis, she does not know why Heapify is O(n), or why you would want to use a min heap as a frontier when implmenting Dijkstra's shortest path algorithm.
 
-In order to avoid Alice's pitfalls, you need to *make sure that you understand every concept in Data Structures*. Practically every sentence that Sesh or Tjang says in 112 is important. I understand that you are human, and cannot keep perfect concentration in an 80 minute lecture. But you need to be proactive about understanding all the concepts that are covered. This means that if zoned out in the lecture about AVL Trees, you still need to make sure you learn it. You can go read the textbook after class. You can look up the material online. There's some [very good online courses that cover data structures](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e). You can ask me or another upperclassman to explain the concept to you.
+In order to avoid Alice's pitfalls, you need to *make sure that you understand every concept in Data Structures*. Practically every sentence that Sesh or Tjang says in 112 is important. I understand that you are human, and cannot keep perfect concentration in an 80 minute lecture. But you need to be proactive about understanding all the concepts that are covered. This means that if you zoned out in the lecture about AVL Trees, you still need to make sure you learn it. You can go read the textbook after class. You can look up the material online. There's some [very good online courses that cover data structures](http://see.stanford.edu/see/courseinfo.aspx?coll=11f4f422-5670-4b4c-889c-008262e09e4e). You can ask me or another upperclassman to explain the concept to you.
 
 You need to do this before the day of your data structures exam, because the course covers *a lot of important material*, and you cannot learn all of it in a day.
 
-### When picking classes, the only thing that matters is the quality of the professor teaching the course.
+### Pick classes carefully, especially after the intro sequence.
 
-### When learning concepts in a class, you should very clearly understand why the concept is important.
+1. Pay close attention to the professor that's teaching the class.
+    - Don't take a class just because the professor is easy. By doing this, you are learning nothing, and wasting both time and tuition dollars.
+    - Understand that a lot of the professors teaching you haven't written a line of code in 15+ years. They cannot and will not teach you web or mobile app development. If they attempt to teach you this stuff, their material will likely be outtdated and poorly researched. 
+    - The theoretical classes are challenging and will require mental discipline. I highly recommend everything being taught by [Martin Farach-Colton](http://www.cs.rutgers.edu/~farach), [William Steiger](http://www.cs.rutgers.edu/~farach), or [Eric Allender](http://www.cs.rutgers.edu/~allender). These were my favorite professors, with engaging, memorable classes, and challenging material.
+2. Prerequisites don't matter. 
+    - If you've done well in 111, 112, 211 and 205, you can take **any** other class in the department.
+    - Do you see [Uli Kremer](http://www.cs.rutgers.edu/~uli) (an excellent compilers professor) teaching next semester? Take his class even though you haven't taken 314.
+    - But V! I'm not smart. Everyone in this class is going to have an edge on me. I'm going to get a bad grade, lose my scholarship, and end up on the streets. Here's what I have to say to this - 50% of the people taking a class don't learn a thing. At the end of CS112, I want you to ask 10 of your classmates if they can implement a hash table. At the beginning of 211 and 214, I want you to look around you as they struggle to implement one in C. They're not learning in 112, and they're not learning in the prerequisite courses that you want to skip. They will have no edge over you.
+    - You will feel more challenged in a course if you take it without a prerequisite, but as long as you're proactive about brushing up on material you don't know, you'll do just fine.
+    - Logistics - you can't register for a course on webreg if you haven't taken the prereqs. Send the prof an email to get a prereq override - tell them you're interested in the material, and you'll put extra time and learn stuff you don't know.
+
+3. Stop focusing on grades. Focus on concepts you're learning
+    - The classes I loved the most were the ones in which I was engaged by the professor's lectures and assignments. 
+    - I took Operating Systems with a smart but boring professor. I was not engaged in lecture, but his assignments, exams were easy so I got an A. I regret wasting my time, because my grade did not reflect the OS concepts I'd learned.
+    - I have friends that took OS with [Ricardo Bianchinni](http://www.cs.rutgers.edu/~ricardo). Their assignments and exams were much harder, and they spent much more time on coursework. Most of them did not get As - but they learned far more about OS than I did.
+    - If your goal is to learn OS, don't waste your time in a course that doesn't teach you OS.
+    - If your goal is to get a piece of paper with your name on it, and "B.S in Computer Science" under it, this advice isn't for you. I loved learning about the hard problems in computer science from incredibly smart people that were experts in these fields.
 
 ### If you are not branching out from the material you learn in class, you will have a hard time getting hired as a developer.
 
-### Always have an idea of what your learning progression 
+Your professors haven't written code in 15+ years. They're not going to teach you how to develop software - don't waste your time taking CS431.
+
+Start writing code in your free time to solve **any problem** that you have. I wrote [RUBUS](http://oss.rutgers.edu/rubus/) when I was in 112. I used to maintain [static web pages]() for a board game my roommate played with his high school friends. Everyone that's good at programming has put in lots of time into it.
+
+Attend USACS events and talk to upperclassmen about ideas you have, and things that they've built. Hang out in the CAVE, and go to hackathons. All of this experience will add up, and help you land your first paid programming gig.
+
+### Get paid to write code as early as possible.
+
+When I started taking CS classes, I didn't understand why people got paid to sit at a computer and write for loops. I thought the mysterious, legendary developers getting internships and part time jobs must **know so much more** about the web/mobile apps/algorithms. This is a classic case of impostor syndrome, and it creates a mental roadblock until you get paid to write code.
+
+Use your summers for internships or part time work ([not for folding clothes](http://joelspolsky.com/)). For your first development job, I recommend [Student System Administration at OSS](http://oss.rutgers.edu), [System Administration at LCSR (under Doug Motto)](http://lcsr.rutgers.edu), [an internship at Too Much Media](http://toomuchmedia.com/), or [HackNY if you are lucky](http://hackny.org/). You'll want to do a more traditional tech internship at companies like Microsoft, Google or Etsy, but you'll have an easier time getting these once you have some experience. If you hang around CS folks, you'll hear about such opportunities frequently. Apply early and often - you'll have an easier time in October than in April.
+
+### Participate in the community
+
+The Rutgers CS community, while not perfect, [has grown a great deal over the last few years](). You've got access to events like HackRU, HackNY, PennApps, and HackTCNJ. You've got access to the CAVE and the Hackerspace. USACS, RuMAD and the Rutgers Hackathon Club are active, and full of smart people. People taking the same classes as you have gone on to [amazing jobs](spreadsheet), [start companies](), and [sell companies](). Start reading [hacker news](http://news.ycombinator.com/), and [/r/programming](http://reddit.com/r/programming).
+
+Don't forget to give back to the community. Teach CS111 recitation. Join the USACS board, and help plan events. Hang out at the CAVE and help underclassmen understand difficult concepts. Help the noobs out at hackathons.
+
+Make friends out of your peers. [Impossible looking homework assignments](allender) will become easier. You'll spend a silly amount of time [working on a CTF challenge](stripe), or [writing a game](shahaan). You'll get [one letter](http://github.com/v) [Github](http://github.com/x) [usernames](http://github.com/k) together. After college, they'll help you find jobs and offer you their couches.
