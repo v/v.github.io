@@ -2,7 +2,7 @@ name: V's Blog
 description: V's Tips and Tricks for Developers
 markdown: redcarpet
 url: http://vverma.net
-highlighter: true
+highlighter: pygments
 exclude:
     - fabfile.py
     - Gemfile
