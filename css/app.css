@@ -9,9 +9,6 @@ ul.nav {
     list-style-type: none;
 }
 
-div.top-banner {
-}
-
 hr {
     border-width: 2px 0 0;
     border-top-color: #000;
@@ -21,25 +18,20 @@ img.avatar {
     width: 130px;
 }
 
-hgroup h1, hgroup h3 {
+div.top-banner h1, div.top-banner h3 {
     margin: 0;
 }
 
-hgroup h1 {
+div.top-banner h1 {
     font-size: 48px;
 }
 
-hgroup h3 {
+div.top-banner h3 {
     font-weight: normal;
 }
 
 div.wrapper {
     margin-top: 15px;
-}
-
-em {
-    color: rgb(180, 0, 0);
-    font-style: normal;
 }
 
 span.date, span.post-title {
