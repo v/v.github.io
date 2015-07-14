@@ -48,7 +48,7 @@ Juice
 
 This problem should be a breeze for you after 111. If you cannot write code to solve this in 30 minutes, without someone's help, you are in trouble.
 
-Here is another litmus test. If you can solve the first 5 problems on [Project Euler](http://projectuler.net) without any help, you have learned problem solving. You can start worrying about other things. If you can't do these problems, you need to spend more time learning to problem solve, writing code, and debugging code. You will not get very far in a CS degree before you do this.
+Here is another litmus test. If you can solve the first 5 problems on [Project Euler](http://projecteuler.net) without any help, you have learned problem solving. You can start worrying about other things. If you can't do these problems, you need to spend more time learning to problem solve, writing code, and debugging code. You will not get very far in a CS degree before you do this.
 
 You can write code to solve a Project Euler problem, and submit the solution by creating an account. This is also a great way to learn a new programming language (This is how I learned the basics of Python).
 
