@@ -3,6 +3,8 @@ description: V's Tips and Tricks for Developers
 markdown: redcarpet
 url: http://vverma.net
 highlighter: pygments
+redcarpet:
+    extensions: ["tables"]
 exclude:
     - fabfile.py
     - Gemfile

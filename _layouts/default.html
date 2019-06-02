@@ -52,8 +52,9 @@ navigation:
                     </div>
                     <div class="large-7 columns">
                         <ul class="button-group my-nav">
-                        {% for link in page.navigation %}
-                            {% if page.url contains link.url %}
+                        {% for link in layout.navigation %}
+                            {% assign link_url = link.url | replace: '.html', '' %}
+                            {% if page.url contains link_url %}
                             <li class="active">
                             {% else %}
                             <li>
