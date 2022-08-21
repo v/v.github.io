@@ -1,6 +1,6 @@
 name: V's Blog
 description: V's Tips and Tricks for Developers
-markdown: redcarpet
+markdown: kramdown
 url: http://vverma.net
 highlighter: pygments
 redcarpet:
