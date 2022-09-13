@@ -7,10 +7,6 @@ published: true
 
 You are an engineer in a 100+ person organization. Often, when you show up to work, you're asked to build a new system to replace an old system. Maybe there's some code that's buggy or slow that needs to be swapped out. Maybe you're switching a piece of cloud infrastructure - you're going to run CI on Buildkite instead of CircleCI, or log metrics using Datadog instead of Cloudwatch. Or maybe you're swapping out business process A for producing widgets with business process B.
 
-<div class="flex-row-centered">
-    <img src="https://via.placeholder.com/500" />
-</div>
-
 Depending on the approach that you take, the final result can end up looking pretty different.
 
 **Result A: You build the new system, and you make it available to use in production**
