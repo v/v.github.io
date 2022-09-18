@@ -155,3 +155,8 @@ ol {
   align-items: center;
   margin-bottom: 16px;
 }
+
+.top-banner {
+  display: flex;
+  justify-content: space-between;
+}

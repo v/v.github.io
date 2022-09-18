@@ -4,12 +4,8 @@ navigation:
       url: index.html
     - text: Blog
       url: blog.html
-    - text: Projects
-      url: projects.html
     - text: Resume
       url: //vverma.net/resume.pdf
-    - text: Teaching
-      url: teaching.html
     - text: Github
       url: //github.com/v
 ---
@@ -46,11 +42,9 @@ navigation:
     <body>
         <div class="row">
             <div class="large-12 wrapper columns">
-                <div class="row top-banner">
-                    <div class="large-5 columns">
-                        <h1> <a href="/"> Vaibhav Verma </a> </h1>
-                    </div>
-                    <div class="large-7 columns">
+                <div class="top-banner">
+                    <h1> <a href="/"> Vaibhav Verma </a> </h1>
+                    <nav>
                         <ul class="button-group my-nav">
                         {% for link in layout.navigation %}
                             {% assign link_url = link.url | replace: '.html', '' %}
@@ -63,7 +57,7 @@ navigation:
                             </li>
                         {% endfor %}
                         </ul>
-                    </div>
+                    </nav>
                 </div>
                 <hr />
                 {{ content }}
