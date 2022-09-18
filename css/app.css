@@ -1,118 +1,133 @@
-html, body {
+html,
+body {
 }
 
 h1 a {
-    color: #1a5a92;
+  color: #1a5a92;
 }
 
 ul.nav {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 hr {
-    border-width: 2px 0 0;
-    border-top-color: #000;
+  border-width: 2px 0 0;
+  border-top-color: #000;
 }
 
 img.avatar {
-    width: 130px;
+  width: 130px;
 }
 
-div.top-banner h1, div.top-banner h3 {
-    margin: 0;
+div.top-banner h1,
+div.top-banner h3 {
+  margin: 0;
 }
 
 div.top-banner h1 {
-    font-size: 48px;
+  font-size: 48px;
 }
 
 div.top-banner h3 {
-    font-weight: normal;
+  font-weight: normal;
 }
 
 div.wrapper {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 
-span.date, span.post-title {
-    font-size: 20px;
+span.date,
+span.post-title {
+  font-size: 20px;
 }
 
 ul.my-nav {
-    margin-top: 35px;
+  margin-top: 35px;
 }
 
 ul.my-nav a {
-    background: none;
-    border: none;
-    color: #1a5a92;
-    font-weight: 400;
-    font-size: 20px;
-    margin: 10px;
+  background: none;
+  border: none;
+  color: #1a5a92;
+  font-weight: 400;
+  font-size: 20px;
+  margin: 10px;
 }
 
 ul.my-nav li.active a {
-    color: #474747;
-    cursor: default;
-    pointer-events: none;
+  color: #474747;
+  cursor: default;
+  pointer-events: none;
 }
 
 h3 {
-    font-weight: 400;
+  font-weight: 400;
 }
 
 .gh-btn {
-    padding: 3px 10px 3px 8px;
-    font-size: 16px;
-    line-height: 22px;
-    border-radius: 4px;
-    background-color: #e6e6e6;
-    border: 1px solid #d4d4d4;
-    border-bottom-color: #bcbcbc;
-    background-image: -webkit-gradient(linear,0 0,0 100%,from(#fafafa),to(#eaeaea));
-    background-image: -webkit-linear-gradient(#fafafa,#eaeaea);
-    background-image: -moz-linear-gradient(top,#fafafa,#eaeaea);
-    background-image: -ms-linear-gradient(#fafafa,#eaeaea);
-    background-image: -o-linear-gradient(#fafafa,#eaeaea);
-    background-image: linear-gradient(#fafafa,#eaeaea);
-    float: left;
-    color: black;
-    cursor: pointer;
+  padding: 3px 10px 3px 8px;
+  font-size: 16px;
+  line-height: 22px;
+  border-radius: 4px;
+  background-color: #e6e6e6;
+  border: 1px solid #d4d4d4;
+  border-bottom-color: #bcbcbc;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#fafafa),
+    to(#eaeaea)
+  );
+  background-image: -webkit-linear-gradient(#fafafa, #eaeaea);
+  background-image: -moz-linear-gradient(top, #fafafa, #eaeaea);
+  background-image: -ms-linear-gradient(#fafafa, #eaeaea);
+  background-image: -o-linear-gradient(#fafafa, #eaeaea);
+  background-image: linear-gradient(#fafafa, #eaeaea);
+  float: left;
+  color: black;
+  cursor: pointer;
 }
 
 .gh-btn:hover {
-    background-image: -webkit-gradient(linear,0 0,0 100%,from(#599bdc),to(#3072b3));
-    background-image: -webkit-linear-gradient(#599bdc,#3072b3);
-    background-image: -moz-linear-gradient(top,#599bdc,#3072b3);
-    background-image: -ms-linear-gradient(#599bdc,#3072b3);
-    background-image: -o-linear-gradient(#599bdc,#3072b3);
-    background-image: linear-gradient(#599bdc,#3072b3);
-    color: #fff;
-    background-color: #3072b3;
-    border-color: #518cc6 #518cc6 #2a65a0;
+  background-image: -webkit-gradient(
+    linear,
+    0 0,
+    0 100%,
+    from(#599bdc),
+    to(#3072b3)
+  );
+  background-image: -webkit-linear-gradient(#599bdc, #3072b3);
+  background-image: -moz-linear-gradient(top, #599bdc, #3072b3);
+  background-image: -ms-linear-gradient(#599bdc, #3072b3);
+  background-image: -o-linear-gradient(#599bdc, #3072b3);
+  background-image: linear-gradient(#599bdc, #3072b3);
+  color: #fff;
+  background-color: #3072b3;
+  border-color: #518cc6 #518cc6 #2a65a0;
 }
 
 .gh-btn:hover .gh-ico {
-    background-position: -25px -20px;
+  background-position: -25px -20px;
 }
 
 .gh-ico {
-    width: 22px;
-    height: 23px;
-    background-position: 0 -20px;
-    margin-top: -1px;
-    margin-right: 4px;
-    vertical-align: middle;
-    background-image: url('../img/github.png');
-    background-repeat: no-repeat;
-    float: left;
+  width: 22px;
+  height: 23px;
+  background-position: 0 -20px;
+  margin-top: -1px;
+  margin-right: 4px;
+  vertical-align: middle;
+  background-image: url("../img/github.png");
+  background-repeat: no-repeat;
+  float: left;
 }
 
 h4.timeline {
-    font-weight: 300;
-    font-style: italic;
-    color: rgb(180, 0, 0);
-    font-size: 24px;
+  font-weight: 300;
+  font-style: italic;
+  color: rgb(180, 0, 0);
+  font-size: 24px;
 }
 
 h4 {
@@ -120,14 +135,23 @@ h4 {
 }
 
 div#intro {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 
 div.info {
-    white-space: pre-line;
-    line-height: 1.3em;
+  white-space: pre-line;
+  line-height: 1.3em;
 }
 
-ul, ol {
-    margin-left: 20px;
+ul,
+ol {
+  margin-left: 20px;
+}
+
+.flex-row-centered {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 16px;
 }
