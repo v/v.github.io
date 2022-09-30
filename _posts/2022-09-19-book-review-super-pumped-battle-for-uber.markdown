@@ -13,16 +13,16 @@ published: true
 
 1. famous, familiar characters like Travis Kalanick, Anthony Levandowski, Bill Gurley, Larry Page, Susan Fowler, Masayoshi San
 1. incredible events - both good and bad
-1. behind-the-curtains peek into a familar product and a hypergrowth tech company.
+1. behind-the-curtains peek into a familar product and a hypergrowth tech company
 1. diverse, international stage
-1. high stakes power struggle with compelling characters.
-1. complicated plot - the line between good and evil is not so clear.
+1. high stakes power struggle with compelling characters
+1. complicated plot - the line between good and evil is not so clear
 
-I looked forward to the next chapter just as much as I'd look forward to the next episode of *Game of Thrones*
+I looked forward to the next chapter just as much as I'd look forward to the next episode of *Game of Thrones*.
 
 If any of this sounds like your cup of tea, pick up the book and start reading it! 
 
-Otherwise, keep on reading and I'll share what I enjoyed most about this book
+Otherwise, keep on reading and I'll share what I enjoyed most about this book.
 
 ### My reasons for loving this book (spoilers!)
 
@@ -40,7 +40,7 @@ As I read the book though, I had to revise my opinion.
 
 Travis was a math whiz with a degree in Computer Science?! He was more similar to me than I thought, and easier to relate to. If I knew him in school, I'd consider him a fellow nerd.
 
-Uber was not his first company. He founded two peer to peer file sharing companies before he worked for Uber - Scour and Red Swoosh. Let's look at the crises that Travis dealt with at these companies:
+Uber was not Travis's first company. He founded two peer to peer file sharing companies before he worked for Uber - Scour and Red Swoosh. Let's look at the quandries that Travis dealt with at these companies:
 
 > At one point, when Red Swoosh was running out of money, an employee dipped into the company’s payroll tax withholdings—money a company reserves to pay the IRS the taxes it owes—to fund operations.
 
@@ -52,7 +52,7 @@ Red Swoosh ran out of money, and one of its employees was committing tax fraud. 
 
 > Finally, after six years of tireless hustling, Kalanick negotiated his best deal yet: he sold Red Swoosh to Akamai for nearly $20 million. After taxes, Travis personally netted roughly $2 million.
 
-I respect people that have gone through the trenches of building a company. Real experiences like these harden you.
+I respect people that have gone through the trenches of building a company. Real experiences like these harden you for your next battle.
 
 After the Red Swoosh sale, Travis didn't exactly live a life of the rich and famous. He started [a blog](https://swooshing.wordpress.com/) and advised young startups from his apartment in San Francisco's Castro District. 
 
@@ -60,7 +60,7 @@ After the Red Swoosh sale, Travis didn't exactly live a life of the rich and fam
 
 > Kalanick wanted to be a fixer like The Wolf. After buying his hilltop house in the Castro, Kalanick started investing small amounts of money in various startups with the understanding that he’d be available as their own personal fixer, willing to swoop in and solve problems whenever a founder needed his help. Got a problem with an agitated investor? The Wolf can handle it. Don’t know the first thing about hiring new engineers? Just call The Wolf. Maybe you have late-night thoughts on your company’s next move and want to talk it out. Never fear, The Wolf is here.
 
-This is pretty much what I would do if I made it big - write an interesting blog, help young entrepreneurs make it, and earn a nickname like "The Wolf"!
+Travis is very relatable here. This is pretty much what I would do if I made it big - write an interesting blog, help young entrepreneurs make it, and earn a nickname like "The Wolf"!
 
 When Travis became Uber CEO, he gave early employees autonomy and responsibility.
 
@@ -72,7 +72,7 @@ When Travis became Uber CEO, he gave early employees autonomy and responsibility
 
 I can see how this city based management style helped Uber grow so quickly in so many cities. If all the important decisions for Uber's growth were being made in San Francisco, there's no way that Uber would have taken over the world as quickly. 
 
-I also think it's no accident that the early Uber team is described as Travis's "private army". Travis would ask his soldiers to break local laws, stand up to its enemies, and play dirty to win. I'm not sure I'd be doing that if I thought I was somebody's subordinate at an office job.
+I also think it's no accident that the early Uber team is described as Travis's "private army". Travis would ask his soldiers to break local laws, stand up to its enemies, and play dirty to win. I'm not sure he would have succeeded if his employees thought they were cogs in the machine at a boring office job.
 
 **Uber's stories of dirty tactics and ruthless competition are incredible**
 
@@ -88,10 +88,9 @@ Uber started competing head to head with Lyft and Sidecar, and they held nothing
 
 > Kalanick took pleasure in hurting Green and Zimmer, and showed them no mercy.
 
-It was very surprising for me to learn that Travis treated his competitors like sworn enemies. In my day jobs, I've seen my employer disrespect its competitors, but I have never seen this level of intensity.
+It is surprising for me to learn that Travis treated his competitors like sworn enemies. In my day job, I've seen my coworkers disrespect and belittle competitors, but I have never seen company leaders go after a competitor publically and with this level of intensity.
 
-Uber hired spies to gather intelligence on Lyft executives and on driver initiatives.
-
+Uber also hired spies to gather intelligence on Lyft executives and on driver initiatives.
 
 > One Lyft executive grew so paranoid about being followed by Uber that he walked out onto his porch, lifted both middle fingers in the air and waved them around, sending a message to the spies he was absolutely sure were watching.
 
@@ -101,11 +100,11 @@ Uber hired spies to gather intelligence on Lyft executives and on driver initiat
 
 > The budgets for these black ops departments were obfuscated; Kalanick had purview over them. Nevertheless, Kalanick okayed budgets that spun into the tens of millions for surveillance activity, global operations, and information collection [...] Buying intelligence from third-party firms to gain an edge was normal.
 
-I didn't think that companies hired professional spies to impersonate drivers, and follow employees around. I used to think that I came up with creative ways to help my company win, but Uber's actions make me feel like my ideas are child's play. 
+I didn't think that companies hired professional spies to follow competitors and impersonate drivers. I thought I could come up with creative ideas for a company to beat its competitors. Uber's tactics make me feel like my "creative ideas" are child's play.
 
 **Real people went through serious and tragic events as Uber grew in cities**
 
-Often, as white collar tech employees, we forget that our work affects real people. In Uber's case, stories from Uber drivers, employees and customers are extreme, emotional and hard hitting.
+Often, as white collar tech employees, we forget that our work affects real people. In Uber's case, the app sometimes affected drivers, employees and customers in extreme, emotional and hard hitting ways.
 
 > As general manager of Uber’s Milan office, she worked overtime to convince Uber drivers to stay on the road, even as taxi operators would hail Ubers to their location, pull drivers out of their cars, and beat them. And one night when Lucini was returning home from work, she found a sign hung from a power line not far from her apartment. On the sign was Lucini’s home address, and a message calling her a prostitute who provided her “services” to Milan’s transportation chief.
 
@@ -113,7 +112,7 @@ Often, as white collar tech employees, we forget that our work affects real peop
 
 > Cabbies were aghast. Doug Schifter, a livery driver from Manhattan, faced financial ruin after the rise of Uber wrecked his income driving for traditional car services. Schifter drove to City Hall in Lower Manhattan on a cold Monday morning in February 2018, put a shotgun to his head, and pulled the trigger. “When the industry started in 1981, I averaged 40–50 hours,” Schifter wrote in a final post to his Facebook page. “I cannot survive any longer with working 120 hours! I am not a Slave and I refuse to be one.”
 
-Wow - employees are being intimidated by tough guys, and drivers are taking their own lives as a result of pricing changes. No company wants their work to lead to events like these.
+Wow - employees are being intimidated by tough guys, and drivers are taking their own lives as a result of pricing changes. No company wants its work to lead to events like these.
 
 **Uber faced unfathomable challenges in the international market**
 
@@ -127,19 +126,19 @@ In China, Uber wanted to win in the market at all costs. Chinese customers respo
 
 The ingenuity of these scammers is very surprising to me. They built custom circuit boards with hundreds of SIM card slots so that they could take fake rides on Uber and earn incentive bonsues. 
 
-Their Chinese competitor, DiDi, planted engineers inside Uber as corporate spies.
+Their Chinese competitor, DiDi, went even further - they planted engineers inside Uber as corporate spies.
 
 > One of DiDi’s preferred tactics was to send new recruits over to Uber to join as engineers. As soon as they were hired they acted as moles, feeding proprietary Uber information back to DiDi and carrying out corporate sabotage on some of Uber’s internal systems.
 
-Once corporate espionage is involved, the conflict between two companies feels less like competition and more like war.
+When I heard that corporate espionage was involved, it became clear to me that the conflict between Uber and DiDi was less like competition and more like war.
 
-In India, Local taxi companies hated Uber and initimidated them with violence.
+In India, Local taxi companies hated Uber and initimidated employees with violence.
 
 > In Mumbai, local taxi operators muscled up at Uber’s offices and tried to intimidate employees. Violence was not uncommon; in Bangalore, whenever BD took a ride home from work, he refused to let Uber drivers take him directly to his house; he knew competitors might follow him.
 
 > An angry mob of drivers—some who drove for Uber, others employed by taxi organizations all too happy to stoke anger—showed up outside of Uber’s offices in early 2017 with the dead body of the thirty-four-year-old driver, M Kondaiah, dumping the corpse on the company’s front doorstep.
 
-Drivers and passengers went through horrifying tragedies.
+Drivers and passengers in India and Brazil experienced horrifying, violent crime.
 
 > The man took out a canister, doused his body in gasoline and then brandished a lighter, threatening to set himself ablaze unless Uber raised its rates again.
 
@@ -151,25 +150,25 @@ Drivers and passengers went through horrifying tragedies.
 
 > At least sixteen drivers were murdered in Brazil before Kalanick’s product team improved identity verification and security in the app.
 
-Nobody expects their white-collar office job to lead to violent crime like suicide, rape and murder. Despite knowing that such events happen every day in cities around the world, my heart becomes heavy upon learning of these stories with human suffering.
+Nobody expects their white-collar office job to lead to violent crime like suicide, rape and murder. Despite knowing that such events happen every day in cities around the world, my heart becomes heavy upon learning of such human suffering.
 
 **The power struggle between the Uber CEO and the board gives a glimpse into high stakes corporate politicking**
 
-As Uber started to get bad press, Bill Gurley thought that Uber needed to make major changes, and replace its CEO.
+As Uber started to get bad press, Bill Gurley thought that Uber needed to make major changes, and replace Travis with another CEO.
 
 > It [the Eric Holder report] was hundreds of pages long, a winding, repetitive list of infractions that had occurred across Uber’s hundreds of global offices, including sexual assault and physical violence. After Ryan Graves read the report, he felt he needed to vomit.
 
 > Gurley and Bonderman worried Holder’s recommendations might not have gone far enough, since they stopped short of pushing Kalanick out for good. Some members of the executive leadership team were convinced Huffington had leaned on Holder and Tammy Albarrán, Holder’s partner, to convince them not to recommend Kalanick’s termination in the final report.
 
-Travis Kalanick gave himself supervoting shares, and was aware of the power that he held.
+Travis Kalanick didn't trust VCs and gave himself supervoting shares to keep his power.
 
 > Whenever Camp, Graves, or anyone else in Kalanick’s orbit began to chafe at his actions, he usually responded with some version of the same placative sentiment: “Do you know how much money I’m going to make you?”
 
 > But when Sacca began attempting to buy up shares of Uber from other early investors—a practice known as “secondary share purchasing”—Kalanick turned on him. The CEO stopped allowing Sacca to attend board meetings as an observer; the two rarely spoke afterwards.
 
-I was surprised that Travis could be so confrontational with other executives and board members at Uber. I haven't seen conflicts with this kind of intensity in people's workplace relationships.
+Travis could be so confrontational with other executives and board members at Uber. I haven't seen conflicts with this kind of intensity in people's workplace relationships.
 
-To oust Travis, Bill Gurley hatched a plan with a syndicate of Uber's VCs.
+To oust Travis, Bill Gurley hatched a secret, elaborate plan with a syndicate of Uber's VCs.
 
 > And he [Bill Gurley] proposed a plan that would rely on all of them [Uber's VCs] to work together. Gurley knew Kalanick would never step down of his own volition. They had to force his hand. Gurley knew Kalanick, like a rock climber looking for a toehold, would search for any weakness in the syndicate’s attack. With enough time and effort, Kalanick would find one, exploit it, and sink them all. He was a survivor; they needed to box him in. The minute Gurley walked into the hotel room to negotiate a surrender, Travis would tell the six-foot-nine Texan to go fuck himself. They needed a neutral emissary.
 
@@ -179,7 +178,7 @@ To oust Travis, Bill Gurley hatched a plan with a syndicate of Uber's VCs.
 
 > Now, as Cohler and Fenton slid his death letter across the table, Kalanick wondered how long they had been plotting his demise. It was the ultimate betrayal. Kalanick was lashing out like a cornered animal. He wouldn’t take it lying down. He wouldn’t accede to their demands. He was going to fight.
 
-I didn't think that a board member would hatch such a secret and elaborate plan to replace the company's CEO. It was crazy to hear that it was such a bitter fight.
+Bill planned for every possible response from Travis and forced his hand. It was crazy for me to learn that a company's investors were bitterly fighting its CEO.
 
 Travis agreed to resign but he probably didn't see what was coming next.
 
@@ -187,7 +186,7 @@ Travis agreed to resign but he probably didn't see what was coming next.
 
 > Seeing the tick-tock of events on page A1, followed by an enormous graphic of Kalanick’s face shattered—like pieces of glass—across the front of the business section, was too much for him to bear. He was livid; the venture capitalists screwed him, like he always suspected they would. They made a fool out of him in front of the entire world.
 
-Someone leaked the story to the press, and Travis's reputation was destroyed in the press. Wow, I thought this was a real stab in the back for Travis.
+Someone leaked the story to the press, and Travis's reputation was destroyed in the press. I thought this was a real stab in the back for Travis.
 
 And when Uber began searching for a replacement CEO, both Travis and the VC firm Benchmark pulled out all the stops to influence the decision.
 
@@ -199,7 +198,9 @@ And when Uber began searching for a replacement CEO, both Travis and the VC firm
 
 > The votes [for the new CEO] kept coming in deadlocked; neither side would budge. Then, some believe, Cohler made a miscalculation. The Benchmark partner gave the table an ultimatum: If the board voted for Whitman, Benchmark would drop its lawsuit against Kalanick. It read to the room as an ultimatum. This was the price of peace. Instead of following a fair process to determine the best candidate, Benchmark was effectively holding the board hostage to approve the [replacement CEO] candidate of their choice.
 
-Again, I couldn't imagine that an investor would file a lawsuit against the CEO that brought them all its returns. And I didn't think that the vote for the next CEO would be tie broken due to coercion from the same heavy handed investor. 
+Again, I couldn't imagine that an investor would file a lawsuit against the CEO that brought them all its returns. And I didn't think that an investor would pressure the board to vote for a specific replacement CEO, and have it backfire on them.
+
+The book ends with Travis's departure from Uber, and the entire story arc is gripping, especially if you're a frequent Uber customer like I am.
 
 ### Your Turn
 
