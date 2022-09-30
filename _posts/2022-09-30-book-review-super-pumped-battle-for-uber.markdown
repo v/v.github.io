@@ -207,3 +207,5 @@ The book ends with Travis's departure from Uber, and the entire story arc is gri
 Pick up the book and [tell me](https://twitter.com/vwritescode) what you thought of it, and of this book review.
 
 Showtime made [a TV series](https://www.imdb.com/title/tt11173006/) out of this book. I haven't seen it yet. I'll update this post when I do. If it's anything like the book, it will be a treat.
+
+*Thanks to Kike Ibe for helping me write this post.*
