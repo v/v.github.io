@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Book Review - Super Pumped: The Battle for Uber, Mike Isaac"
-date: 2022-09-12
+date: 2022-09-30
 published: true
 ---
 
